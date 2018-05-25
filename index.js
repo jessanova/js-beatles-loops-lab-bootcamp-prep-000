@@ -1,4 +1,6 @@
 function theBeatlesPlay(musicians, instruments){
   var r = []
-  for(i=0,)
+  for(i=0; i<){
+    r[i]=
+  }
 }
